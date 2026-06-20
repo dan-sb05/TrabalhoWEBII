@@ -102,7 +102,7 @@ git commit -m "Implementado CRUD de clientes"
 ## Enviar para o GitHub
 
 ```bash
-git push origin julya
+git push origin seu_nome
 ```
 
 Exemplo:
